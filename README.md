@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @louis-phhh
+- 👋 Hi, I’m @louis-phhh (call me Hai Hau)
 - 👀 I’m interested in API,Web service development (NodeJS, Golang)
-- 🌱 I’m currently learning Golang, Jenkins, Docker, ...
+- 🌱 I’m currently learning Golang, Jenkins, Docker, ... and improving my Reactjs skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: louis.phhh@gmail.com
 
